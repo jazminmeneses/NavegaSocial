@@ -29,6 +29,7 @@ experiencia para así lograr concretar la navegación con éxito.
  
  Luego de tener una primera reunión con los Stakeholders se acordó 
 enfocar el proyecto a: 
+
 ● Diagnóstico en la experiencia de usuario de Navega Social (con 
 énfasis en el sitio público): 
   -Análisis global de lo que quieren transmitir 
@@ -43,7 +44,7 @@ información clara y transparente sobre las Fundaciones de ayuda social
 en nuestro país.  
 
 
-[Entrevista Stakeholders] 
+[Entrevista Stakeholders](https://docs.google.com/document/d/1xzf1GHMpMrJtS3siI5e-hwIhhotfE3dgdXonkn9z2r0/edit?usp=sharing)
  
 ### Proceso
  
@@ -58,14 +59,14 @@ hace, ¿es directamente con la fundación o es por otros medios?
 preguntas para así entender qué es fundamental para que el
 usuario se sienta seguro al donar.
 
-[Encuesta Navega Social]
-[Respuestas Encuesta]
+[Encuesta Navega Social](https://docs.google.com/forms/d/e/1FAIpQLSdES152ZUXExc1W-YNKNmh5VM4bSFmaT_fw8MWBwdS6c6g1jA/viewform?usp=sf_link)
+[Respuestas Encuesta](https://docs.google.com/spreadsheets/d/1FapP5Z3JEFTw0V5cBiZWWqp6bZC9J7n1sIlINMiTX0Q/edit?usp=sharing)
 
 ● Evaluación Heurística​ : Evaluación de usabilidad para descubrir 
 posibles errores y faltas en la interfaz de manera que se puedan 
 corregir y así evitar posibles tropiezos cuando el usuario acceda. 
  
-[Evaluación Heurística Navega Social]  
+[Evaluación Heurística Navega Social](https://docs.google.com/spreadsheets/d/1Kc4jNyjjQUKNUNzmkz5vyHSmIEW3ytlmvqNjJrULEr8/edit?usp=sharing)
  
 ● Test De Usabilidad​ : Evaluar si el sitio actual cumple con su 
 promesa de navegación, ¿El usuario puede completar las tareas 
@@ -73,24 +74,21 @@ que se le piden? ¿Entiende de qué trata el sitio? ¿Qué le parecen
 las diferentes vistas del portal?. Poder definir qué le resulta difícil 
 al usuario, qué le gusta, y qué cosas le gustaría cambiar. 
  
-[Pauta test de usabilidad]
-[Test 1]
-[Test 2]
-[Test 3]
+[Pauta test de usabilidad](https://docs.google.com/document/d/1H22NbplOXCpxSl540PQR7jX-YGi29M0xRljWbg-INgM/edit?usp=sharing)
+[Test 1](https://docs.google.com/document/d/1VceFnrwFR8ThSYhB4snSsN0KadT2e3i606zH4EoI8R0/edit?usp=sharing)
+[Test 2](https://docs.google.com/document/d/1gGtwOV4hKSNRmgUkW0kFZjcCv4ztATOpYXxBW8DIL3U/edit?usp=sharing)
+[Test 3](https://docs.google.com/document/d/1Mrqs9vqlzgjxS2rzLagF2A9--tXV1gHLSxxNWL266e0/edit?usp=sharing)
  
 ● Wireframe y prototipo​ : Integrar feedback de usuarios e insights, y 
 crear posibles soluciones por medio de sketches para luego 
 integrar los cambios a un prototipo digital. 
  
+ ![29249958_10215900917940196_2545386774264283136_o](https://user-images.githubusercontent.com/32287743/38064993-56da0bac-32d7-11e8-9dda-6324989f7a90.jpg) ![29313581_10215900915780142_3682156994224979968_o](https://user-images.githubusercontent.com/32287743/38065011-6d45fe1e-32d7-11e8-8fff-d5af7e51d356.jpg)
+
  
  
  
- 
- 
- 
- 
-  
- 
+
  
 ### Conclusiones
  
@@ -154,7 +152,7 @@ que cada Fundación necesita, si tiene que ser especialista (profesional)
 o puede ser cualquier persona con ganas de ayudar. Finalmente se 
 acordó no integrar esa idea al prototipo final. 
  
-[Conclusiones generales]
+[Conclusiones generales](https://docs.google.com/document/d/1sjv_nz9oMxI2_dcNrgGPu5unODUhEuBSsq1LsbAXA3A/edit?usp=sharing)
  
 ### Resultado
  
